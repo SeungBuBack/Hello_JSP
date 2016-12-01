@@ -8,6 +8,9 @@ public class Hello {
 		System.out.println("hotfix edit/modify");
 		// 0123456 :end
 		
+		// 023659:hotfix edit by kim
+		System.out.println("불휘,지영 지각하지마!");
+		//023659 end
 	}
 
 }
