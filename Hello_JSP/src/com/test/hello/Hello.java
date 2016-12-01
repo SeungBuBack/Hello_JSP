@@ -21,6 +21,9 @@ public class Hello {
 		//0412518 end
 
 		
+		// 023659:hotfix edit by kim
+		System.out.println("불휘,지영 지각하지마!");
+		//023659 end
 	}
 
 }
